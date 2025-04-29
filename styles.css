@@ -30,6 +30,21 @@ ul {
     list-style: none;
 }
 
+a {
+    border-radius: none;
+    text-decoration: none;
+    color: #4d7cfe;
+    font-weight: bold;
+    transition: 1s;
+    
+}
+
+a:hover {
+    opacity: 0.5;
+    color: #222;
+
+}
+
 .principal {
     display: flex;
     align-items: center;
